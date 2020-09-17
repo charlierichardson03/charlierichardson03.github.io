@@ -1,3 +1,12 @@
 body {
   background-color: #55C3D9;
 }
+
+h1 {}
+
+summary {
+  border: 5px solid black;
+  border-style: dotted;
+  width: 750px;
+  height: 60px;
+}
