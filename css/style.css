@@ -1,12 +1,42 @@
+/* Hex colors: #364F6B #3FC1C9 #3eb489*/
 body {
-  background-color: #55C3D9;
+  background-color: #3FC1C9;
 }
 
-h1 {}
+header {
+  color: #364F6B;
+  font-size: 25px;
+  text-align: center;
+}
 
-summary {
-  border: 5px solid black;
-  border-style: dotted;
-  width: 750px;
-  height: 60px;
+table, th, td {
+  border: 2px solid black;
+  background-color: #3eb489;
+}
+
+#FirstColumn {
+  width: 160px;
+  background-color: #3eb489;
+}
+
+#LastColumn {
+  width: 160px;
+  background-color: #3eb489;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h3 {
+  color: #364F6B;
+  font-size: 30px;
+}
+
+#MiddleColumn {
+  width: 850px;
+}
+
+footer {
+  font-size: 17px;
 }

@@ -1,0 +1,51 @@
+/* Hex colors: #364F6B #3FC1C9 #3eb489*/
+body {
+  background-color: #3FC1C9;
+}
+
+header {
+  color: #364F6B;
+  font-size: 25px;
+  text-align: center;
+}
+
+summary {
+  border: 5px solid black;
+  border-style: dotted;
+  border-color: #364F6B;
+  width: 750px;
+  height: 162px;
+  font-size: 20px;
+  padding: 8px 8px 8px 8px;
+  margin: 25px 25px 25px 40px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+nav {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-weight: normal;
+  border: 3px solid black;
+  background-color: #3eb489;
+  width: 900px;
+  font-size: 18px;
+  padding: 10px 10px 10px 10px;
+}
+
+a {
+  color: black;
+  font-size: 25px;
+}
+
+footer {
+  font-size: 17px;
+}
