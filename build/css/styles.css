@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf) format('truetype');
+}
+body {
+  background-color: #3FC1C9;
+}
+header {
+  color: #364F6B;
+  font-size: 25px;
+  text-align: center;
+}
+summary {
+  border: 5px solid black;
+  border-style: dotted;
+  border-color: #364F6B;
+  width: 750px;
+  font-size: 20px;
+  padding: 8px 8px 8px 8px;
+  margin: 25px 25px 25px 40px;
+}
+h1 {
+  font-size: 40px;
+  font-family: 'Quicksand', sans-serif;
+}
+nav {
+  font-size: 20px;
+  background-color: #298c92;
+  height: 60px;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  font-weight: normal;
+  border: 3px solid black;
+  background-color: #3EB489;
+  width: 900px;
+  font-size: 18px;
+  padding: 10px 10px 10px 10px;
+}
+a {
+  color: black;
+  font-size: 25px;
+}
+footer {
+  font-size: 17px;
+}
+#Flowchart {
+  color: #364F6B;
+}
+#Performance {
+  color: #364F6B;
+}
+#Song {
+  color: #364F6B;
+}
+.badge {
+  background-color: #EB3455;
+}
